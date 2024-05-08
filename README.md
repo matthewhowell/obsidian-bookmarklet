@@ -34,4 +34,4 @@ As far as I know, the [Obsidian URI scheme](https://help.obsidian.md/Extending+O
 ## Acknowledgments
 - [The team](https://obsidian.md/about) for making [Obsidian](https://obsidian.md)
 - [Carlo Zottmann](https://norden.social/@czottmann) for making the excellent [actions-uri](https://zottmann.dev/obsidian-actions-uri/) plugin
-- [Caio Rordrigues](https://github.com/caiorss) for making [bookmarklet maker](/Volumes/Macintosh HD/Users/matthewhowell/Dev/obsidian-bookmarklet/append-url-to-note.js)
+- [Caio Rordrigues](https://github.com/caiorss) for making [bookmarklet maker](https://caiorss.github.io/bookmarklet-maker/)
